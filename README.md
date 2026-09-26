@@ -1,6 +1,6 @@
 # San Diego Micro Food-Resilience Map
 
-**[Open the interactive map →](https://benh83.github.io/sdag/)**
+**[Open the interactive map →](https://benh83.github.io/agricultural-micro-resiliency/)**
 
 For any point in San Diego County, this map estimates how well the farms nearby could supply a
 **balanced and diverse diet**: enough protein, carbohydrate *and* fat, drawn from many different foods,
