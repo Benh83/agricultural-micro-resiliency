@@ -224,7 +224,11 @@ def main() -> None:
             .replace("__DATA__", json.dumps(payload, separators=(",", ":")))
             .replace("__PARCELS__", json.dumps(parcels_json, separators=(",", ":"))))
     (OUT / "resilience_map.html").write_text(html, encoding="utf-8")
-    print(f"\nWrote {OUT/'resilience_map.html'}  -  open it in a browser.")
+    # GitHub Pages serves docs/index.html as the site's home page.
+    DOCS = Path("docs")
+    DOCS.mkdir(exist_ok=True)
+    (DOCS / "index.html").write_text(html, encoding="utf-8")
+    print(f"\nWrote {OUT/'resilience_map.html'} and {DOCS/'index.html'} (for GitHub Pages).")
 
 
 def _round_coords(c):
