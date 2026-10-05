@@ -1,4 +1,4 @@
-# San Diego Balanced-Day Food Map
+# San Diego Agricultural Micro-resiliency Map
 
 **[Open the interactive map →](https://benh83.github.io/agricultural-micro-resiliency/)**
 
