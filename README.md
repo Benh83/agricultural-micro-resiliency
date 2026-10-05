@@ -2,7 +2,7 @@
 
 **[Open the interactive map →](https://benh83.github.io/agricultural-micro-resiliency/)**
 
-How far would you have to travel to gather **one balanced day of local food**? Click any point in
+How far would you have to travel to gather one balanced day of local food? Click any point in
 San Diego County. The map plans the shortest errand loop from that spot to farms, ranches and fishing
 spots that together cover every food group in the 2025–2030 Dietary Guidelines ("the New Pyramid"):
 protein foods, dairy, vegetables, fruits, healthy fats and whole grains.
